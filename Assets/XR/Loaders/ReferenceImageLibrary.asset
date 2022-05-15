@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5411939635576546715
+  m_GuidHigh: 12709726907392930432
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5369496698423624403
+      m_GuidHigh: 3378135327109905294
+    m_SerializedTextureGuid:
+      m_GuidLow: 11440393493897190025
+      m_GuidHigh: 10130573209607816472
+    m_Size: {x: 0.1, y: 0.070675}
+    m_SpecifySize: 1
+    m_Name: map-scan
+    m_Texture: {fileID: 0}
